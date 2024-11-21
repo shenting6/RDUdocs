@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:3000/</id>
+    <title>Damaged Diary Program Blog</title>
+    <updated>2024-11-21T19:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:3000/"/>
+    <subtitle>Damaged Diary Program Blog</subtitle>
+    <icon>http://localhost:3000/AronaImgs/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[穿越到基沃托斯的第一天]]></title>
+        <id>http://localhost:3000/穿越到基沃托斯的第一天</id>
+        <link href="http://localhost:3000/穿越到基沃托斯的第一天"/>
+        <updated>2024-11-21T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我穿越到了基沃托斯了?]]></summary>
+        <content type="html"><![CDATA[<p>我穿越到了基沃托斯了?</p>
+<p>不知道为什么,头有点不舒服</p>
+<p>还好日记程序可以正常的运行</p>
+<p>可惜的是之前写的日记都没有了</p>
+<p>为了防止以外,我决定从今天开始每天写日记</p>
+<p>记录一下吧</p>
+<p>话说,这个世界有点不对劲,怎么序章也会出现普拉娜</p>
+<p>额..啊...(头痛了起来)看来我只能亲自调查这个事情了</p>
+<p>不过今天最幸运的事情,就是穿越成阿罗娜了</p>
+<p>感觉剧情像是被人好安排了的一样,太奇怪了,难道我在别人所写的世界中?</p>
+<p>如果是这样的话就麻烦了</p>]]></content>
+        <author>
+            <name>什亭之人</name>
+            <uri>https://github.com/fingtest6</uri>
+        </author>
+        <category label="什亭之人" term="什亭之人"/>
+        <category label="阿罗娜" term="阿罗娜"/>
+    </entry>
+</feed>
