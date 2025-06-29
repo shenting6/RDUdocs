@@ -177,7 +177,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2024 什亭之人 All rights reserved.`,
+        copyright: `Copyright © 2024 什亭之人`,
       },
       prism: {
         theme: prismThemes.github,
